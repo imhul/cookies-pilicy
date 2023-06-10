@@ -1,2 +1,2 @@
 # cookies-pilicy
-Weblogic Cookies Policy Page
+Weblogic Cookies Policy English Page
